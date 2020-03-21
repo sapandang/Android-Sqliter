@@ -20,7 +20,7 @@ tableMap.put("column2","'TEXT'");
 tableMap.put("column3","'TEXT'");
 sqliter.createTable("table1",tableMap);
 ```
-> As of now only string data type is support. `Id` column is automatically created with auto-increment
+>  `_ID` column is automatically created with auto-increment
 
 ### Insert data
 ```
